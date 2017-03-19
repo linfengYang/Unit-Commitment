@@ -1,0 +1,5 @@
+CPLEX Parameter File Version 12.6.2.0
+CPX_PARAM_TUNINGMEASURE          2
+CPX_PARAM_VARSEL                 4
+CPX_PARAM_HEURFREQ               50
+CPX_PARAM_CUTPASS                1
